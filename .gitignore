@@ -1,5 +1,5 @@
-# Terrform
-tf-code/
+# Terraform
+#tf-code/
 plan.out
 terraform.tfstate*
 .terraform
